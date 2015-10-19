@@ -8,7 +8,7 @@ The following *five* volume and surface based metrics:
 * signed relative volume difference (*SRVD*)
 * average symmetric surface distance (*ASD*)
 * root mean square symmetric surface distance (*RMSD*)
-* maximum symmetric surface distance (*MSD*) )
+* maximum symmetric surface distance (*MSD*)
 
 
 ## Source Code
