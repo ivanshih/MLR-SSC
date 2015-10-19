@@ -4,7 +4,7 @@
 ## Metrics
 The following *five* volume and surface based metrics: 
 
-1. volumetric overlap error (*VOE*)
+* volumetric overlap error (*VOE*)
 * signed relative volume difference (*SRVD*)
 * average symmetric surface distance (*ASD*)
 * root mean square symmetric surface distance (*RMSD*)
