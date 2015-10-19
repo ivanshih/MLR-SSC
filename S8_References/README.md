@@ -55,15 +55,15 @@ in: Proceedings of Information Processing in Medical Imaging (IPMI), Kerkrade, T
 
 
 `9` T. Okada, R. Shimada, M. Hori, M. Nakamoto, Y.-W. Chen, H. Nakamura, Y. Sato
-[***Automated segmentation of the liver from 3D CT images using probabilistic atlas and multilevel statistical shape model***](http://www.sciencedirect.com/science/article/pii/S1361841509000644)
+[***Automated segmentation of the liver from 3D CT images using probabilistic atlas and multilevel statistical shape model***](http://www.sciencedirect.com/science/article/pii/S1076633208003978)
 
 Acad. Radiol., 15 (11) (2008), pp. 1390–1403
 
 
-`4` L. Ruskó, G. Bekes, M. Fidrich
-[***Automatic segmentation of the liver from multi- and single-phase contrast-enhanced CT images***](http://www.sciencedirect.com/science/article/pii/S1361841509000644)
+`10` J. Feng, H.H. Ip
+[***A multi-resolution statistical deformable model (MISTO) for soft-tissue organ reconstruction***](http://www.sciencedirect.com/science/article/pii/S0031320308004949)
 
-Med. Image Anal., 13 (6) (2009), pp. 871–882
+Pattern Recognit., 42 (7) (2009), pp. 1543–1558
 
 
 
