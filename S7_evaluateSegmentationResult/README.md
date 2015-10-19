@@ -4,10 +4,11 @@
 ## Metrics
 The following *five* volume and surface based metrics: 
 
->volumetric overlap error (*VOE*),
->signed relative volume difference (*SRVD*), average symmetric
->surface distance (*ASD*), root mean square symmetric surface dis-
->tance (*RMSD*), and maximum symmetric surface distance (*MSD*) ).
+1. volumetric overlap error (*VOE*)
+* signed relative volume difference (*SRVD*)
+* average symmetric surface distance (*ASD*)
+* root mean square symmetric surface distance (*RMSD*)
+* maximum symmetric surface distance (*MSD*) )
 
 
 ## Source Code
