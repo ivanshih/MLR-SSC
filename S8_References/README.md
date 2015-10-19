@@ -118,7 +118,7 @@ in: Proceedings of European Conference on Computer Vision (ECCV'02), Copenhagen,
 >`27` J. Abi-Nahed, M. Jolly, G. Yang
 [***Robust active shape models: a robust, generic and simple automatic segmentation tool***]
 (http://link.springer.com/chapter/10.1007/11866763_1)
-in: Proceedings of Medical Image Computing and Computer-Assisted Interventation (MICCAI׳06), Copenhagen, Denmark, 2006, pp. 1–8
+in: Proceedings of Medical Image Computing and Computer-Assisted Interventation (MICCAI'06), Copenhagen, Denmark, 2006, pp. 1-8
 
 >`28` J. Wright, Y. Ma, J. Mairal, G. Sapiro, T.S. Huang, S. Yan
 [***Sparse representation for computer vision and pattern recognition***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5456194)
