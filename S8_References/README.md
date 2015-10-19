@@ -39,7 +39,7 @@ ZIB-Report 04-09, Konrad-Zuse-Zentrum für Informationstechnik Berlin, April 200
 
 
 >`8` T. Heimann, S. Münzing, H.-P. Meinzer, I. Wolf
-[***Automatic segmentation of the liver from multi- and single-phase contrast-enhanced CT images***](http://link.springer.com/chapter/10.1007/978-3-540-73273-0_1)
+[***A shape-guided deformable model with evolutionary algorithm initialization for 3D soft tissue segmentation***](http://link.springer.com/chapter/10.1007/978-3-540-73273-0_1)
 in: Proceedings of Information Processing in Medical Imaging (IPMI), Kerkrade, The Netherlands, 2007, pp. 1–12
 
 
