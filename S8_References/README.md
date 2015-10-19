@@ -64,7 +64,7 @@ Comput. Vis. Image Underst., 117 (6) (2013), pp. 705–717
 [***The probabilistic active shape model: from model construction to flexible medical image segmentation***](http://tuprints.ulb.tu-darmstadt.de/3519/1/thesis.pdf)
 (Ph.D. thesis), Technische Universität Darmstadt, Darmstadt, Germany, 2013
 
->`14` ~~M. Erdt, M. Kirschner~~ M. Erdt, S. Steger, M. Kirschner, S. Wesarg
+>`14` ~~M. Erdt, M. Kirschner~~ **M. Erdt, S. Steger, M. Kirschner, S. Wesarg**
 [***Fast automatic liver segmentation combining learned shape priors with observed shape deviation***](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6042650)
 : Procedings of IEEE 23rd International Symposium on Computer-Based Medical Systems (CBMS 2010), Perth, Australia, 2010, pp. 249–254
 
