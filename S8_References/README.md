@@ -82,14 +82,14 @@ Med. Image Anal., 13 (4) (2009), pp. 543–563
 
 >`18` I. Jolliffe
 [***Principal component analysis***](http://link.springer.com/book/10.1007/b98835)
-Springer Series in Statistics (2nd edition)Springer, Berlin, Germany (2002)
+Springer Series in Statistics (2nd edition) Springer, Berlin, Germany (2002)
 
 >`19` J. Koikkalainen, T. Tölli, K. Lauerma, K. Antila, E.M. Mattila, M. Lilja, J. Lötjönen
 [***Methods of artificial enlargement of the training set for statistical shape models***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4591396)
 IEEE Trans. Med. Imaging, 27 (11) (2008), pp. 1643–1654
 
 >`20` C. Davatzikos, X. Tao, D. Shen
-[***Hierarchical active shape models, using the wavelet transform***](http://www.sciencedirect.com/science/article/pii/S0031320308004949)
+[***Hierarchical active shape models, using the wavelet transform***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1199642)
 IEEE Trans. Med. Imaging, 22 (3) (2003), pp. 414–423
 
 
