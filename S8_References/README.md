@@ -2,7 +2,7 @@
 
 `1` P. Campadelli, E. Casiraghi, A. Esposito
 
-[**Liver segmentation from computed tomography scans: A survey and a new algorithm**](http://www.sciencedirect.com/science/article/pii/S0933365708001425)
+[***Liver segmentation from computed tomography scans: A survey and a new algorithm***](http://www.sciencedirect.com/science/article/pii/S0933365708001425)
 
 Artif. Intell. Med., 45 (2) (2009), pp. 185–196
 
