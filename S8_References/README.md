@@ -28,7 +28,7 @@ Comput. Aided Surg., 6 (3) (2001), pp. 131–142
 
 >`6` A. Afifi, T. Nakaguchi
 [***Liver segmentation approach using graph cuts and iteratively estimated shape and intensity constrains***](http://link.springer.com/chapter/10.1007/978-3-642-33418-4_49)
-in: Proceedings of Medical Image Computing and Computer-Assisted Interventation (MICCAI׳12), Nice, France, 2012, pp. 395–403
+in: Proceedings of Medical Image Computing and Computer-Assisted Interventation (MICCAI'12), Nice, France, 2012, pp. 395-403
 
 
 
@@ -66,7 +66,7 @@ Comput. Vis. Image Underst., 117 (6) (2013), pp. 705–717
 
 >`14` ~~M. Erdt, M. Kirschner~~ **M. Erdt, S. Steger, M. Kirschner, S. Wesarg**
 [***Fast automatic liver segmentation combining learned shape priors with observed shape deviation***](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6042650)
-: Procedings of IEEE 23rd International Symposium on Computer-Based Medical Systems (CBMS 2010), Perth, Australia, 2010, pp. 249–254
+in: Procedings of IEEE 23rd International Symposium on Computer-Based Medical Systems (CBMS 2010), Perth, Australia, 2010, pp. 249–254
 
 >`15` H. Park, P.H. Bland, C.R. Meyer
 [***Construction of an abdominal probabilistic atlas and its application in segmentation***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1200918)
@@ -91,6 +91,46 @@ IEEE Trans. Med. Imaging, 27 (11) (2008), pp. 1643–1654
 >`20` C. Davatzikos, X. Tao, D. Shen
 [***Hierarchical active shape models, using the wavelet transform***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1199642)
 IEEE Trans. Med. Imaging, 22 (3) (2003), pp. 414–423
+
+>`21` Y. Wang, L.H. Staib
+[***Boundary finding with prior shape and smoothness models***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=865192)
+IEEE Trans. Pattern Anal. Mach. Intell., 22 (7) (2000), pp. 738–743
+
+>`22` T.F. Cootes, C.J. Taylor
+[***A mixture model for representing shape variation***](http://www.sciencedirect.com/science/article/pii/S0262885698001759)
+Image Vis. Comput., 17 (8) (1999), pp. 567–573
+
+>`23` P.D. Sozou, T.F. Cootes, C.J. Taylor, E.C. Di Mauro
+[***Non-linear generalization of point distribution models using polynomial regression***](http://www.sciencedirect.com/science/article/pii/026288569599732G)
+Image Vis. Comput., 13 (5) (1995), pp. 451–457
+
+>`24` C.J. Twining, C.J. Taylor
+[***The use of kernel principal component analysis to model data distributions***](http://www.sciencedirect.com/science/article/pii/S0031320302000511) Pattern Recognit., 36 (1) (2003), pp. 217–227
+
+>`25` K. Lekadir, R.D. Merrifield, G. Yang
+[***Outlier detection and handling for robust 3-D active shape models search***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4077859)
+IEEE Trans. Med. Imag., 26 (2) (2007), pp. 212–222
+
+>`26` M. Rogers, J. Graham
+[***Robust active shape model search***](http://link.springer.com/chapter/10.1007/3-540-47979-1_35)
+in: Proceedings of European Conference on Computer Vision (ECCV'02), Copenhagen, Denmark, 2002, pp. 517-530
+
+>`27` J. Abi-Nahed, M. Jolly, G. Yang
+[***Robust active shape models: a robust, generic and simple automatic segmentation tool***]
+(http://link.springer.com/chapter/10.1007/11866763_1)
+in: Proceedings of Medical Image Computing and Computer-Assisted Interventation (MICCAI׳06), Copenhagen, Denmark, 2006, pp. 1–8
+
+>`28` J. Wright, Y. Ma, J. Mairal, G. Sapiro, T.S. Huang, S. Yan
+[***Sparse representation for computer vision and pattern recognition***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5456194)
+Proc. IEEE, 98 (6) (2010), pp. 1031–1044
+
+>`29` S. Zhang, Y. Zhan, M. Dewan, J. Huang, D.N. Metaxas, X.S. Zhou
+[***Towards robust and effective shape modeling: sparse shape composition***](http://www.sciencedirect.com/science/article/pii/S1361841511001162)
+Med. Image Anal., 16 (1) (2012), pp. 265–277
+
+>`30` S.K. Zhou
+[***Discriminative anatomy detection: classification vs regression***](http://www.sciencedirect.com/science/article/pii/S0167865513003127)
+Pattern Recognit. Lett., 43 (2014), pp. 25–38
 
 
 
