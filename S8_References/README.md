@@ -127,8 +127,8 @@ Proc. IEEE, 98 (6) (2010), pp. 1031–1044
 >`29` S. Zhang, Y. Zhan, M. Dewan, J. Huang, D.N. Metaxas, X.S. Zhou
 [***Towards robust and effective shape modeling: sparse shape composition***](http://www.sciencedirect.com/science/article/pii/S1361841511001162)
 Med. Image Anal., 16 (1) (2012), pp. 265–277
-[`Code Python`](http://research.rutgers.edu/~shaoting/research/siemens2010/code_shape_prior.zip) 
-[`Code Matlab`](http://research.rutgers.edu/~shaoting/research/siemens2010/SSC_Matlab.zip)
+[`Python Code`](http://research.rutgers.edu/~shaoting/research/siemens2010/code_shape_prior.zip) 
+[`Matlab Code`](http://research.rutgers.edu/~shaoting/research/siemens2010/SSC_Matlab.zip)
 
 >`30` S.K. Zhou
 [***Discriminative anatomy detection: classification vs regression***](http://www.sciencedirect.com/science/article/pii/S0167865513003127)
