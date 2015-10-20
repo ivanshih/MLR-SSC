@@ -90,13 +90,14 @@ Springer Series in Statistics (2nd edition) Springer, Berlin, Germany (2002)
 [***Methods of artificial enlargement of the training set for statistical shape models***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4591396)
 IEEE Trans. Med. Imaging, 27 (11) (2008), pp. 1643–1654
 
+>`20` C. Davatzikos, X. Tao, D. Shen
+[***Hierarchical active shape models, using the wavelet transform***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1199642)
+IEEE Trans. Med. Imaging, 22 (3) (2003), pp. 414–423
+
 
 **************************************************
 
 
->`20` C. Davatzikos, X. Tao, D. Shen
-[***Hierarchical active shape models, using the wavelet transform***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1199642)
-IEEE Trans. Med. Imaging, 22 (3) (2003), pp. 414–423
 
 >`21` Y. Wang, L.H. Staib
 [***Boundary finding with prior shape and smoothness models***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=865192)
