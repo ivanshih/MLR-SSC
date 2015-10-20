@@ -52,6 +52,8 @@ Acad. Radiol., 15 (11) (2008), pp. 1390–1403
 [***A multi-resolution statistical deformable model (MISTO) for soft-tissue organ reconstruction***](http://www.sciencedirect.com/science/article/pii/S0031320308004949)
 Pattern Recognit., 42 (7) (2009), pp. 1543–1558
 
+**************************************************
+
 >`11` X. Zhang, J. Tian, K. Deng, Y. Wu, X. Li
 [***Automatic liver segmentation using a statistical shape model with optimal surface detection***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5504057)
 IEEE Trans. Biomed. Eng., 57 (10) (2010), pp. 2622–2626
@@ -87,6 +89,10 @@ Springer Series in Statistics (2nd edition) Springer, Berlin, Germany (2002)
 >`19` J. Koikkalainen, T. Tölli, K. Lauerma, K. Antila, E.M. Mattila, M. Lilja, J. Lötjönen
 [***Methods of artificial enlargement of the training set for statistical shape models***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4591396)
 IEEE Trans. Med. Imaging, 27 (11) (2008), pp. 1643–1654
+
+
+**************************************************
+
 
 >`20` C. Davatzikos, X. Tao, D. Shen
 [***Hierarchical active shape models, using the wavelet transform***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1199642)
@@ -130,9 +136,15 @@ Med. Image Anal., 16 (1) (2012), pp. 265–277
 [`Python Code`](http://research.rutgers.edu/~shaoting/research/siemens2010/code_shape_prior.zip) 
 [`Matlab Code`](http://research.rutgers.edu/~shaoting/research/siemens2010/SSC_Matlab.zip)
 
+
 >`30` S.K. Zhou
 [***Discriminative anatomy detection: classification vs regression***](http://www.sciencedirect.com/science/article/pii/S0167865513003127)
 Pattern Recognit. Lett., 43 (2014), pp. 25–38
+
+
+**************************************************
+
+
 
 >`31` H. Ling, S.K. Zhou, Y. Zheng, B. Georgescu, M. Suehling, D. Comaniciu
 [***Hierarchical, learning-based automatic liver segmentation***](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4587393)
@@ -174,6 +186,11 @@ Tech. Rep., University of Manchester, October 2001
 >`40` C. Goodall
 [***Procrustes methods in the statistical analysis of shape***](http://www.jstor.org/stable/2345744)
 J. R. Stat. Soc. Ser. B (Methodol.), 53 (2) (1991), pp. 285–339
+
+
+
+**************************************************
+
 
 
 >`41` N. Nguyen, T. Tran
@@ -220,6 +237,10 @@ in: Proceedings of Insight Journal - ISC/NA-MIC Workshop on Open Science at MICC
 [***MEPP - 3D mesh processing platform***](https://liris.cnrs.fr/mepp/pdfs/MEPP_Grapp_2012.pdf)
 in: Proceedings of International Conference on Computer Graphics Theory and Applications, Rome, Italy, 2012, pp. 206–210
 [`Code`](https://liris.cnrs.fr/mepp/) 
+
+
+**************************************************
+
 
 >`51` R.H. Davies
 [***Learning shape: optimal models for analyzing natural variability***](http://personalpages.manchester.ac.uk/staff/timothy.f.cootes/papers/RH_Davies_thesis.pdf)
