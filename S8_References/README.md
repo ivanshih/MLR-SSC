@@ -136,7 +136,7 @@ Pattern Recognit. Lett., 43 (2014), pp. 25–38
 
 >`31` H. Ling, S.K. Zhou, Y. Zheng, B. Georgescu, M. Suehling, D. Comaniciu
 [***Hierarchical, learning-based automatic liver segmentation***](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4587393)
-in: Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR׳08), Anchorage, Alaska, USA, 2008, pp. 1–8
+in: Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR'08), Anchorage, Alaska, USA, 2008, pp. 1-8
 
 >`32` Y. Zheng, A. Barbu, B. Georgescu, M. Scheuering, D. Comaniciu
 [***Four-chamber heart modeling and automatic segmentation for 3-D cardiac CT volumes using marginal space learning and steerable features***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4601463)
@@ -164,7 +164,7 @@ IEEE Trans. Med. Imaging, 33 (9) (2014), pp. 1761–1780
 IEEE Trans. Inf. Theory, 28 (2) (1982), pp. 129–137
 
 >`38` D. Cohen-Steiner, P. Alliez, M. Desbrun
-[***Variational shape approximation***](http://www.sciencedirect.com/science/article/pii/S0167865513003127)
+[***Variational shape approximation***](http://dl.acm.org/citation.cfm?id=1015817)
 ACM Trans. Graph. (TOG), 23 (3) (2004), pp. 905–914
 
 >`39` T.F. Cootes, C.J. Taylor
