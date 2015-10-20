@@ -176,6 +176,79 @@ Tech. Rep., University of Manchester, October 2001
 J. R. Stat. Soc. Ser. B (Methodol.), 53 (2) (1991), pp. 285–339
 
 
+>`41` N. Nguyen, T. Tran
+[***Exact recoverability from dense corrupted observations via ℓ1-minimization***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6413233)
+IEEE Trans. Inf. Theory, 59 (4) (2013), pp. 2017–2035
+
+>`42` S.S. Chen, D.L. Donoho, M.A. Saunders
+[***Atomic decomposition by basis pursuit***](http://epubs.siam.org/doi/abs/10.1137/S1064827596304010)
+SIAM J. Sci. Comput., 20 (1) (1998), pp. 33–61
+
+>`43` J. Mairal, F. Bach, J. Ponce
+[***Sparse modeling for image and vision processing***](http://www.nowpublishers.com/articles/foundations-and-trends-in-computer-graphics-and-vision/CGV-058)
+Found. Trends Comput. Graph. Vis., 8 (2–3) (2014), pp. 85–283
+
+>`44` A.F. Frangi, W.J. Niessen, K.L. Vincken, M.A. Viergever
+[***Multiscale vessel enhancement filtering***](http://link.springer.com/chapter/10.1007/BFb0056195)
+in: Proceedings of Medical Image Computing and Computer-Assisted Interventation (MICCAI'98), Cambridge, MA, USA, 1998, pp. 130-137
+
+>`45` W.E. Lorensen, H.E. Cline
+[***Marching cubes: a high resolution 3D surface construction algorithm***](http://dl.acm.org/citation.cfm?id=37422)
+in: Proceedings of SIGGRAPH'87, New York, NY, USA, 1987, pp. 163-169
+
+>`46` C.B. Barber, D.P. Dobkin, H. Huhdanpaa
+[***The quickhull algorithm for convex hulls***](http://dl.acm.org/citation.cfm?doid=235815.235821)
+ACM Trans. Math. Soft. (TOMS), 22 (4) (1996), pp. 469–483
+[`Code`](http://www.qhull.org) 
+
+>`47` I.H. Witten, E. Frank
+[***Data Mining: Practical Machine Learning Tools and Techniques***](http://www.sciencedirect.com/science/book/9780123748560)
+second edition, The Morgan Kaufmann Series in Data Management Systems, Morgan Kaufmann, San Francisco, USA, 2005
+
+>`48` M. Styner, I. Oguz, S. Xu, C. Brechbühler, D. Pantazis, J.J. Levitt, M.E. Shenton, G. Gerig
+[***Framework for the statistical shape analysis of brain structures using SPHARM-PDM***](http://www.insight-journal.org/browse/publication/101)
+in: Proceedings of Insight Journal - ISC/NA-MIC Workshop on Open Science at MICCAI 2006, Copenhagen, Denmark, 2006, http://dx.doi.org/1926/215
+[`Code`](https://github.com/NIRALUser/SPHARM-PDM) 
+
+>`49` T. Heimann, I. Oguz, I. Wolf, M. Styner, H.-P. Meinzer
+[***Implementing the automatic generation of 3D statistical shape models with ITK***](http://www.insight-journal.org/browse/publication/111)
+in: Proceedings of Insight Journal - ISC/NA-MIC Workshop on Open Science at MICCAI 2006, Copenhagen, Denmark, 2006, http://dx.doi.org/1926/224
+[`Code`](https://github.com/midas-journal/midas-journal-111) 
+
+>`50` G. Lavoué, M. Tola, F. Dupont
+[***MEPP - 3D mesh processing platform***](https://liris.cnrs.fr/mepp/pdfs/MEPP_Grapp_2012.pdf)
+in: Proceedings of International Conference on Computer Graphics Theory and Applications, Rome, Italy, 2012, pp. 206–210
+[`Code`](https://liris.cnrs.fr/mepp/) 
+
+>`51` R.H. Davies
+[***Learning shape: optimal models for analyzing natural variability***](http://personalpages.manchester.ac.uk/staff/timothy.f.cootes/papers/RH_Davies_thesis.pdf)
+(Ph.D. thesis), University of Manchester, Manchester, UK, 2002
+
+>`52` B. Jian, B.C. Vemuri
+[***Robust point set registration using Gaussian mixture models***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5674050)
+IEEE Trans. Pattern Anal. Mach. Intell., 33 (8) (2011), pp. 1633–1645
+[`Code`](https://github.com/bing-jian/gmmreg/) 
+
+>`53` B.M. Dawant, R. Li, B. Lennon, S. Li
+[***Semi-automatic segmentation of the liver and its evaluation on the MICCAI 2007 grand challenge data set***](http://mbi.dkfz-heidelberg.de/grand-challenge2007/web/p215.pdf)
+in: Proceedings of MICCAI Workshop 3-D Segmentation in the Clinic: A Grand Challenge, 2007, pp. 215–221
+
+>`54` J. Lee, N. Kim, H. Lee, J.B. Seo, H.J. Won, Y.M. Shin, Y.G. Shin
+[***Efficient liver segmentation exploiting level-set speed images with 2.5D shape propagation***](http://mbi.dkfz-heidelberg.de/grand-challenge2007/web/p189.pdf)
+in: Proceedings of MICCAI Workshop 3-D Segmentation in the Clinic: A Grand Challenge, 2007, pp. 189–196
+
+>`55` R. Beichel, C. Bauer, A. Bornik, E. Sorantin, H. Bischof
+[***Liver segmentation in CT data: a segmentation refinement approach***](http://mbi.dkfz-heidelberg.de/grand-challenge2007/web/p235.pdf)
+in: Proceedings of MICCAI Workshop 3-D Segmentation in the Clinic: A Grand Challenge, 2007, pp. 235–245
+
+>`56` A. Wimmer, G. Soza, J. Hornegger
+[***Two-stage semi-automatic organ segmentation framework using radial basis functions and level sets***](http://mbi.dkfz-heidelberg.de/grand-challenge2007/web/p179.pdf)
+in: Proceedings of MICCAI Workshop 3-D Segmentation in the Clinic: A Grand Challenge, 2007, pp. 179–188
+
+>`57` P. Slagmolen, A. Elen, D. Seghers, D. Loeckx, F. Maes, K. Haustermans
+[***Atlas based liver segmentation using nonrigid registration with a B-spline transformation model***](http://mbi.dkfz-heidelberg.de/grand-challenge2007/web/p197.pdf)
+in: Proceedings of MICCAI Workshop 3-D Segmentation in the Clinic: A Grand Challenge, 2007, pp. 197–206
+
 
 
 
