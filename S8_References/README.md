@@ -187,7 +187,7 @@ SIAM J. Sci. Comput., 20 (1) (1998), pp. 33–61
 >`43` J. Mairal, F. Bach, J. Ponce
 [***Sparse modeling for image and vision processing***](http://www.nowpublishers.com/articles/foundations-and-trends-in-computer-graphics-and-vision/CGV-058)
 Found. Trends Comput. Graph. Vis., 8 (2–3) (2014), pp. 85–283
-[`Code`](http://spams-devel.gforge.inria.fr/index.html/) 
+[`Code`](http://spams-devel.gforge.inria.fr/) 
 
 >`44` A.F. Frangi, W.J. Niessen, K.L. Vincken, M.A. Viergever
 [***Multiscale vessel enhancement filtering***](http://link.springer.com/chapter/10.1007/BFb0056195)
