@@ -134,6 +134,47 @@ Med. Image Anal., 16 (1) (2012), pp. 265–277
 [***Discriminative anatomy detection: classification vs regression***](http://www.sciencedirect.com/science/article/pii/S0167865513003127)
 Pattern Recognit. Lett., 43 (2014), pp. 25–38
 
+>`31` H. Ling, S.K. Zhou, Y. Zheng, B. Georgescu, M. Suehling, D. Comaniciu
+[***Hierarchical, learning-based automatic liver segmentation***](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4587393)
+in: Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR׳08), Anchorage, Alaska, USA, 2008, pp. 1–8
+
+>`32` Y. Zheng, A. Barbu, B. Georgescu, M. Scheuering, D. Comaniciu
+[***Four-chamber heart modeling and automatic segmentation for 3-D cardiac CT volumes using marginal space learning and steerable features***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4601463)
+IEEE Trans. Med. Imaging, 27 (11) (2008), pp. 1668–1681
+
+>`33` A.S. Maklad, M. Matsuhiro, H. Suzuki, Y. Kawata, N. Niki, M. Satake, N. Moriyama, T. Utsunomiya, M. Shimada
+[***Blood vessel-based liver segmentation using the portal phase of an abdominal CT dataset***](http://scitation.aip.org/content/aapm/journal/medphys/40/11/10.1118/1.4823765)
+Med. Phys., 40 (11) (2013) 113501-1–113501-17
+
+>`34` B. Efron, T. Hastie, I. Johnstone, R. Tibshirani
+[***Least angle regression***](http://projecteuclid.org/euclid.aos/1083178935)
+Ann. Stat., 32 (2) (2004), pp. 407–499
+
+>`35` S. Zhang, Y. Zhan, D.N. Metaxas
+[***Deformable segmentation via sparse representation and dictionary learning***](http://www.sciencedirect.com/science/article/pii/S1361841512000990)
+Med. Image Anal., 16 (7) (2012), pp. 1385–1396
+
+
+>`36` Y. Shao, Y. Gao, Y. Guo, Y. Shi, X. Yang, D. Shen
+[***Hierarchical lung field segmentation with joint shape and appearance sparse learning***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6737258)
+IEEE Trans. Med. Imaging, 33 (9) (2014), pp. 1761–1780
+
+>`37` S. Lloyd
+[***Least squares quantization in PCM***](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1056489)
+IEEE Trans. Inf. Theory, 28 (2) (1982), pp. 129–137
+
+>`38` D. Cohen-Steiner, P. Alliez, M. Desbrun
+[***Variational shape approximation***](http://www.sciencedirect.com/science/article/pii/S0167865513003127)
+ACM Trans. Graph. (TOG), 23 (3) (2004), pp. 905–914
+
+>`39` T.F. Cootes, C.J. Taylor
+[***Statistical Models of Appearance for Computer Vision***](http://personalpages.manchester.ac.uk/staff/timothy.f.cootes/Models/app_models.pdf)
+Tech. Rep., University of Manchester, October 2001
+
+>`40` C. Goodall
+[***Procrustes methods in the statistical analysis of shape***](http://www.jstor.org/stable/2345744)
+J. R. Stat. Soc. Ser. B (Methodol.), 53 (2) (1991), pp. 285–339
+
 
 
 
