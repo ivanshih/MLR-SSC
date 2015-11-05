@@ -8,10 +8,8 @@
 
 You can download the final version of our article on ScienceDirect **for free** until **December 25, 2015** (**No sign up or registration is needed!**):
 
->[http://authors.elsevier.com/a/1R~bR77nKG04J](http://authors.elsevier.com/a/1R~bR77nKG04J)
+>[http://authors.elsevier.com/a/1R~bR77nKG04J](http://authors.elsevier.com/a/1R~bR77nKG04J).
 
-
-.
 
 ## Development Environment
 * [Ubuntu 14.04](http://releases.ubuntu.com/14.04/)
