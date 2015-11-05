@@ -7,7 +7,7 @@
 , *Pattern Recognition* 50 (2016) 88-106,  [http://dx.doi.org/10.1016/j.patcog.2015.09.001](http://dx.doi.org/10.1016/j.patcog.2015.09.001).
 
 
-# Free Article Download
+## Free Article Download
 
 You can download the final version of our article on ScienceDirect **for free** until **December 25, 2015** (**No sign up or registration is needed!**):
 
