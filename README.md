@@ -1,8 +1,17 @@
 # MLR-SSC
 
-`C++` source code for the *Pattern Recognition* paper: [A Hierarchical Local Region-based Sparse Shape Composition for Liver Segmentation in CT Scans](http://www.sciencedirect.com/science/article/pii/S0031320315003155). 
+`C++` source code for the *Pattern Recognition* paper: [A Hierarchical Local Region-based Sparse Shape Composition for Liver Segmentation in CT Scans](http://www.sciencedirect.com/science/article/pii/S0031320315003155):
+
+>Changfa Shi, Yuanzhi Cheng, Fei Liu, Yadong Wang, Jing Bai and Shinichi Tamura, 
+[***A Hierarchical Local Region-based Sparse Shape Composition for Liver Segmentation in CT Scans***](http://www.sciencedirect.com/science/article/pii/S0031320315003155)
+, *Pattern Recognition* 50 (2016) 88-106,  [http://dx.doi.org/10.1016/j.patcog.2015.09.001](http://dx.doi.org/10.1016/j.patcog.2015.09.001).
+
+You can download the final version of our article on ScienceDirect **for free** until **December 25, 2015** (**No sign up or registration is needed!**):
+
+>[http://authors.elsevier.com/a/1R~bR77nKG04J](http://authors.elsevier.com/a/1R~bR77nKG04J)
 
 
+.
 
 ## Development Environment
 * [Ubuntu 14.04](http://releases.ubuntu.com/14.04/)
